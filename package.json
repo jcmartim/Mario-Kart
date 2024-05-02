@@ -1,0 +1,12 @@
+{
+  "name": "mario-kart",
+  "version": "1.0.0",
+  "description": "Jogo de Kart.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --watch ./src/app.js"
+  },
+  "keywords": ["jogo"],
+  "author": "JCMartim",
+  "license": "ISC"
+}
